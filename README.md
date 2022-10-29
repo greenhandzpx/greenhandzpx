@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m interested in Database System.
 - 🌱 I’m currently learning rust, modern cpp and so on.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenhandzpx&layout=compact)](https://github.com/greenhandzpx/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenhandzpx&layout=compact)](https://github.com/greenhandzpx/github-readme-stats)
