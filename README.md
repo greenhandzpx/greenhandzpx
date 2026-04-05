@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m interested in Database Systems, Operating Systems & Storage Systems.
-- 🌱 I’m currently diving into Linux Kernel.
+- 🔭 I’m interested in Operating Systems, Storage Systems & AI Infrastructure.
 - Reach me via px.tsang@foxmail.com .
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenhandzpx&layout=compact)](https://github.com/greenhandzpx/github-readme-stats) -->
